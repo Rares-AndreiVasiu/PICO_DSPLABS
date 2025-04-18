@@ -17,13 +17,10 @@
 
 > on Ubuntu and Debian you can paste the following lines in the terminal
 >
-> `sudo apt install python3 git tar build-essential gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-eabi-newlib`
->
-> `sudo apt-get install libsub-1.0.0-dev`
-
-
-
-## Section 1: Install pico-sdk
+> ```
+> sudo apt install python3 git tar build-essential gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-eabi-newlib
+> sudo apt-get install libsub-1.0.0-dev
+> ```
 
 ```
 $ mkdir ~/.pico
