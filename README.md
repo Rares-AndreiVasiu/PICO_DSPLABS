@@ -22,6 +22,10 @@
 > sudo apt-get install libsub-1.0.0-dev
 > ```
 
+---
+
+## Section 1: Installing pico-sdk
+
 ```
 $ mkdir ~/.pico
 $ cd ~/.pico
@@ -29,6 +33,8 @@ $ git clone https://github.com/raspberrypi/pico-sdk.git --branch master
 $ cd pico-sdk
 $ git submodule update --init
 ```
+
+---
 
 ## Section 2: Adding pico-sdk to path
 
@@ -65,3 +71,5 @@ $ env | grep -E "PICO"
 ```
 
 If there appears a result of this search through the envars, then we have completed this section.
+
+---
