@@ -1,4 +1,4 @@
-# PICO_DSPLABS
+# PICO_BLINKY
 
 
 
